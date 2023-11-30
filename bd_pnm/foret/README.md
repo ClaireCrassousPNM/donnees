@@ -10,8 +10,20 @@ TRUC
 
 
 
-### _Exemple de foret_
+### _Exemple de foret_ "pas de masjucule, pas d accent, pas de blanc"
 
+Tablé récupérée xx
+Date de dernière de mise à jour
+"truc" truc à faire 
+
+|Nom|Type|Description|
+|:--:|:--:|:--:|
+|id|int4|identifiant|
+
+### _bd_foret_
+
+Extraction sur le territoire du Parc de la BD Forêt de l'IGN
+Présente les grands types de peuplement forestier
 
 |Nom|Type|Description|
 |:--:|:--:|:--:|
